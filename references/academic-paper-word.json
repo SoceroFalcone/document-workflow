@@ -1,0 +1,8 @@
+{
+  "roles": {
+    "body": { "font_size_pt": 10.5 },
+    "title": { "east_asia_font": "SimHei", "font_size_pt": 18 },
+    "heading_1": { "east_asia_font": "SimHei", "font_size_pt": 12 },
+    "heading_2": { "east_asia_font": "SimHei", "font_size_pt": 10.5 }
+  }
+}

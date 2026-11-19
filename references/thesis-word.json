@@ -1,0 +1,144 @@
+{
+  "roles": {
+    "cover_code": {
+      "styles": [
+        "论文编码"
+      ],
+      "font_size_pt": 12,
+      "bold": null,
+      "alignment": "right",
+      "first_line_chars": 0,
+      "east_asia_font": "KaiTi",
+      "latin_font": "KaiTi"
+    },
+    "cover_heading": {
+      "styles": [
+        "封面抬头"
+      ],
+      "font_size_pt": 26,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimSun",
+      "latin_font": "SimSun"
+    },
+    "cover_title_cn": {
+      "styles": [
+        "封面中文题名"
+      ],
+      "font_size_pt": 24,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimSun",
+      "latin_font": "SimSun"
+    },
+    "cover_title_en": {
+      "styles": [
+        "封面英文题名"
+      ],
+      "font_size_pt": 24,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "latin_font": "Times New Roman"
+    },
+    "cover_info": {
+      "styles": [
+        "封面信息栏"
+      ],
+      "font_size_pt": 16,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimSun",
+      "latin_font": "SimSun"
+    },
+    "abstract_title_cn": {
+      "styles": [
+        "摘要标题"
+      ],
+      "font_size_pt": 18,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimHei"
+    },
+    "abstract_title_en": {
+      "styles": [
+        "英文摘要标题"
+      ],
+      "font_size_pt": 18,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "latin_font": "Times New Roman"
+    },
+    "abstract_body": {
+      "styles": [
+        "摘要正文",
+        "英文摘要正文"
+      ],
+      "font_size_pt": 12,
+      "bold": null,
+      "alignment": "justify",
+      "first_line_chars": 2
+    },
+    "keywords_cn": {
+      "styles": [
+        "中文关键词"
+      ],
+      "font_size_pt": 12,
+      "bold": null,
+      "alignment": "left",
+      "first_line_chars": 0
+    },
+    "keywords_en": {
+      "styles": [
+        "英文关键词"
+      ],
+      "font_size_pt": 12,
+      "bold": null,
+      "alignment": "left",
+      "first_line_chars": 0,
+      "latin_font": "Times New Roman"
+    },
+    "keywords_cn_label": {
+      "styles": [],
+      "font_size_pt": 14,
+      "bold": null,
+      "alignment": "left",
+      "first_line_chars": 0,
+      "east_asia_font": "SimHei"
+    },
+    "toc_title": {
+      "styles": [
+        "目录标题"
+      ],
+      "font_size_pt": 22,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimHei"
+    },
+    "bibliography_title": {
+      "styles": [
+        "参考文献标题"
+      ],
+      "font_size_pt": 18,
+      "bold": true,
+      "alignment": "center",
+      "first_line_chars": 0,
+      "east_asia_font": "SimHei"
+    },
+    "bibliography_entry": {
+      "styles": [
+        "参考文献条目"
+      ],
+      "font_size_pt": 10.5,
+      "bold": null,
+      "alignment": "left",
+      "first_line_chars": 0
+    }
+  }
+}
